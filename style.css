@@ -20,7 +20,7 @@ nav{
 
 .header > h1{
     display: inline;
-    border: 1px solid blue;
+    border: 1px solid rgb(72, 72, 255);
 }
 
 .ul {
